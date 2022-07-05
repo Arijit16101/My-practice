@@ -51,3 +51,13 @@ h2{
     background-position: left;
     background-repeat: no-repeat;
 }
+#experience-bordero{
+    border-left: 7px solid tomato;
+    
+}
+#experience-border-2{
+    border-left: 7px solid blue;
+}
+footer p{ 
+    text-align: center;
+}
